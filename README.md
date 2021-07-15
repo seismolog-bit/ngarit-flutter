@@ -10,4 +10,7 @@ Ngoding bareng Irit di kelas Flutter
 - 
 
 ### Day 3
-- widget expanded dan container
+- widget expanded dan container (Branch: module_1)
+
+### Day 4 
+- routing dan navigator (Branch: module_2)
